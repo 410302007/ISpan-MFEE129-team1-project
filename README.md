@@ -6,7 +6,7 @@
 *  會員 :[Chu-Ya Hsu](https://github.com/410302007) 
 *  商城、購物結帳 :[dackdada016](https://github.com/dackdada016) 
 *  住宿 :[Jin22221](https://github.com/Jin22221) 
-*  活動 :[4A555076](https://github.com/410302007) 
+*  活動 :[4A555076](https://github.com/4A555076) 
 *  課程 :[Eric Tsai](https://github.com/hiphop200199) 
 *  餐點 :[zackliuzicheng](https://github.com/zackliuzicheng) 
 
